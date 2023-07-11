@@ -1,1 +1,1 @@
-# bigan-service-template
+# rust-service-template
